@@ -1,0 +1,7 @@
+{
+  "name": "NuraCat",
+  "description": "A bilingual safety and educational platform for women and girls in Ethiopia. Learn digital safety, consult experts, and protect your images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
